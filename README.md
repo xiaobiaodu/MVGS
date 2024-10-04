@@ -59,6 +59,15 @@ conda activate mvgs
 ```
 
 ## Quickstart
+
+#### Public Data
+The MipNeRF360 scenes are provided by the paper's author and can be accessed [here](https://jonbarron.info/mipnerf360/). 
+
+#### Custom Data
+For custom data, process the image sequences using [Colmap](https://colmap.github.io/) to obtain SfM points and camera poses. 
+
+#### Run
+
 Below code requires at least 40G GPU memory.
 ```
 python run_360.py
