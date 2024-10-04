@@ -65,7 +65,7 @@ python run_360.py
 ```
 If your GPU memory is limited, try decrease mv value like below code:
 ```
-python train.py -s  {data_path}   --eval --white_background  -m {model_name}  --mv  6  
+python train.py -s  {data_path}   --eval --white_background  -m {save_path}  --mv  6  
 ```
 
 ## Interactive Viewer
