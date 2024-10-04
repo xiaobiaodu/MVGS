@@ -48,7 +48,7 @@ Welcome to **watch** 👀 this repository for the latest updates.
 1. Clone this repo:
 
 ```
-git clone ... --recursive
+git clone https://github.com/xiaobiaodu/MVGS.git --recursive
 cd MVGS
 ```
 
