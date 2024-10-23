@@ -11,7 +11,7 @@
   <a href="https://sites.google.com/view/xinyus-homepage/Home">Xin Yu</a><sup>2</sup>
 </p>
 
-<p align="center"><sup>1</sup>The University of Technology Sydney · <sup>2</sup>The University of Queensland · <sup>3</sup>Liauto Inc.</p>
+<p align="center"><sup>1</sup>The University of Technology Sydney · <sup>2</sup>The University of Queensland · <sup>3</sup>Li Auto Inc.</p>
 <h5 align="center">
 
 ### <p align="center">[🌐Project Page](https://xiaobiaodu.github.io/mvgs-project/) | [🖨️ArXiv](https://arxiv.org/pdf/2410.02103) | [📰Paper](https://arxiv.org/pdf/2410.02103)</p>

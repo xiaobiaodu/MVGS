@@ -467,7 +467,7 @@ class GaussianModel:
 
                     ray1_o = cam_1.rayo
                     ray1_d = cam_1.rayd
-                    box1 = boxes[j]
+                    box1 = boxes[j+i+1]
 
                     ray1_o_topleft = ray1_o[0, :, box1[0], box1[1]]
                     ray1_d_topleft = ray1_d[0, :, box1[0], box1[1]]
