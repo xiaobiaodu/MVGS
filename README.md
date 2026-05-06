@@ -90,10 +90,10 @@ If you find our paper and code useful in your research, please consider giving a
 
 
 ```BibTeX
-@misc{du2024mvgsmultiviewregulatedgaussiansplatting,
-      title={MVGS: Multi-view-regulated Gaussian Splatting for Novel View Synthesis}, 
+@misc{du2026mvgs,
+      title={MVGS: Multi-view Regulated Gaussian Splatting for Novel View Synthesis}, 
       author={Xiaobiao Du and Yida Wang and Xin Yu},
-      year={2024},
+      year={2026},
       eprint={2410.02103},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
